@@ -1,2 +1,1 @@
-# multi_db
-kickstarter bugbounty POC
+# kickstarter bugbounty POC
